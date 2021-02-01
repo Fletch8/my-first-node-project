@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fletch8/my-first-node-project/issues"
   },
-  "homepage": "https://github.com/Fletch8/my-first-node-project#readme"
+  "homepage": "https://github.com/Fletch8/my-first-node-project#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
